@@ -18,3 +18,4 @@ semantic search.
 - ChromaDB / Pinecone
 - OpenAI Embeddings
 - FAISS
+# Jan 20
