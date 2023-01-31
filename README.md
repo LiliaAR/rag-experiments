@@ -19,3 +19,4 @@ semantic search.
 - OpenAI Embeddings
 - FAISS
 # Jan 20
+# Jan 31
