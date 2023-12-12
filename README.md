@@ -41,3 +41,4 @@ semantic search.
 # Oct 31
 # Nov 8
 # Nov 28
+# Dec 12
